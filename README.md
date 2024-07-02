@@ -18,7 +18,12 @@ Install Flask and other required libraries:
 code : pip install flask
 
 ->Run and Test the Application:
-
+--> put both index.html into a folder name templates
+-->Then put both templates folder and app.py in same directory.
 -->Start the Flask server:
-python app.py
+Code : python app.py
 Open your web browser and go to http://localhost:5000 to view and interact with the Password Strength Checker.
+
+MADE BY 
+Shivam kumar 
+Alok Kumar Tiwari
